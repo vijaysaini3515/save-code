@@ -1,0 +1,60 @@
+body{
+   
+    padding: 50px 100px;
+}
+
+
+
+.container{
+    background-image: linear-gradient(yellow,lightgreen,cyan,skyblue);
+    height: auto;
+    width: auto;
+    margin: 30px;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+img{
+    height: 60%;
+    width: 1000px;
+    border-radius: 30px;
+   
+}
+
+.btn {
+    width: 20px;
+    height:20px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 50px;
+   
+}
+#color-switch{
+    text-align: right;
+    margin: 20px;
+}
+
+#white{
+    background-color: white;
+    border-radius: 50%;
+}
+
+#aqua{
+    background-color: aqua;
+    border-radius: 50%;
+}
+
+#violet{
+    background-color: violet;
+    border-radius: 50%;
+}
+
+#black{
+    background-color: black;
+    border-radius: 50%;
+}
+
